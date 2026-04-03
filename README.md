@@ -78,14 +78,38 @@ A terminal-based game focused on interaction and progression.
 
 ---
 
-## Activity
+## Milestones
+
+**2026**
+
+- Started journey in development  
+- Built first interactive system (login structure)  
+- Implemented user validation and control flow  
+- Developed Adivinhator 2000 (game system)  
+- Structured game loop and input handling  
+- Applied error handling for better user experience  
+
+---
+
+**In Progress**
+
+- Improving code structure and readability  
+- Designing better interaction flows  
+- Exploring modularization concepts  
+
+---
+
+**Next**
+
+- Introduce ranking system  
+- Create persistent user system (save data)  
+- Refactor projects into scalable architecture  
+- Add hidden features and deeper logic  
+
+---
 
 <p align="center">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=FFCPY&show_icons=true&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FFCPY&layout=compact&hide_border=true"/>
+  <sub>From simple scripts to structured systems.</sub>
 </p>
 
 ---
