@@ -80,7 +80,7 @@ A terminal-based game focused on interaction and progression.
 
 ## Milestones
 
-**2026**
+**March/2026**
 
 - Started journey in development  
 - Built first interactive system (login structure)  
