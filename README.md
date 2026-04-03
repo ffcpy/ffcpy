@@ -81,11 +81,11 @@ A terminal-based game focused on interaction and progression.
 ## Activity
 
 <p align="center">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&hide_border=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=FFCPY&show_icons=true&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER&layout=compact&hide_border=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FFCPY&layout=compact&hide_border=true"/>
 </p>
 
 ---
