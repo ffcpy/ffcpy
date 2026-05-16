@@ -40,19 +40,23 @@ No shortcuts. Just progression.
 
 ---
 
-## Adivinhator 2000
+## Wavz
 
-A terminal-based game focused on interaction and progression.
+Wavz is a music-based social discovery project built with Python and FastAPI.
 
 **Core:**
-- structured game loop  
-- input validation  
-- difficulty scaling  
+- At its current stage, the project already includes:
+* Spotify OAuth authentication
+* Real-time access to the user’s currently playing track
+* Retrieval of Spotify profile information
+* Structured API responses
+* Timestamped user listening status
 
-**Next:**
-- ranking system  
-- easter eggs  
-- replay improvements  
+**Tech Stack:**
+* Python
+* FastAPI
+* Spotify Web API
+* OAuth 2.0 
 
 ---
 
@@ -95,16 +99,10 @@ A terminal-based game focused on interaction and progression.
 
 - Improving code structure and readability  
 - Designing better interaction flows  
-- Exploring modularization concepts  
-
----
-
-**Next**
-
-- Introduce ranking system  
-- Create persistent user system (save data)  
-- Refactor projects into scalable architecture  
-- Add hidden features and deeper logic  
+- Exploring modularization concepts
+- Create and consume API's
+- ETL
+- Data WareHouse 
 
 ---
 
