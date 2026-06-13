@@ -81,28 +81,7 @@ Wavz is a music-based social discovery project built with Python and FastAPI.
 <p align="center">───────────────</p>
 
 ---
-
-## Milestones
-
-**March/2026**
-
-- Started journey in development  
-- Built first interactive system (login structure)  
-- Implemented user validation and control flow  
-- Developed Adivinhator 2000 (game system)  
-- Structured game loop and input handling  
-- Applied error handling for better user experience  
-
----
-
-**In Progress**
-
-- Improving code structure and readability  
-- Designing better interaction flows  
-- Exploring modularization concepts
-- Create and consume API's
-- ETL
-- Data WareHouse 
+ 
 
 ---
 
